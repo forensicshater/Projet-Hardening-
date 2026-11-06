@@ -1,0 +1,13 @@
+login;nom;groupe_principal;groupes_secondaires
+zakaria;Zakaria;admins;acces_ssh
+assia;Assia;admins;acces_ssh
+princesse;Princesse;admins;acces_ssh
+support;Compte Support;support;acces_ssh
+dev1;Alice Martineau;dev;
+dev2;Thomas Pesquette;dev;
+design1;Virgile Vandyk;design;
+design2;Emmanuel Cheese;design;
+commercial1;Pau Cubraki;commercial;
+commercial2;Lucas Dingue;commercial;
+freelance1;Luis Enrique;freelance;
+freelance2;Adam Atilla;freelance;
