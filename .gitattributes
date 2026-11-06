@@ -1,1 +1,2 @@
 config/nftables.conf text eol=lf
+analyse_logs.sh text eol=lf
